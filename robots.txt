@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dedekcaishen.github.io/qris/sitemap.xml
